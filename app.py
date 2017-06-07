@@ -6,8 +6,8 @@ from pubnub.pubnub import PubNub
 
 pnconfig = PNConfiguration()
  
-pnconfig.subscribe_key = 'pubnub-subscribe key'
-pnconfig.publish_key = 'pubnub-publish-key'
+   pnconfig.subscribe_key = 'sub-c-5c3f5f40-4190-11e7-86e2-02ee2ddab7fe'
+pnconfig.publish_key = 'pub-c-5100138b-1286-477b-836e-55f23e3b0f8c'
 
 #Create publish subscribe key and update the keys above
 

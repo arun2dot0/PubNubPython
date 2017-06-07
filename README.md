@@ -8,7 +8,15 @@ the port number connected to Grove
 Create an account in pubnub.com and setup the publish and subscribe keys
 in app.py
 
-Run 
+
+#Related projects
+Alexa Trigger - https://github.com/arun2dot0/AlexaNodeJS
+Data Integration Code - https://github.com/arun2dot0/metrics-rest-service-redis
+
+#Demo
+[Imgur](http://i.imgur.com/CbwxkHh.gifv)
+
+#Run 
 python app.py 
 
 LED will turn on and print message when message "on" is sent to pubnub
